@@ -1,11 +1,3 @@
-Great—having a clean **GitHub README** is what makes your projects look professional to recruiters.
-Below is a **ready-to-copy README.md template** for your **AI Resume Analyzer (LLM Project)**.
-
----
-
-# 📂 📄 GitHub README.md (Copy & Use)
-
-```md
 # 🚀 AI Resume Analyzer (LLM-Based)
 
 ## 📌 Project Overview
